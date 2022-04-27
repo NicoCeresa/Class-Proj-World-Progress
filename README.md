@@ -5,7 +5,7 @@ The Gapminder website collects data from many sources and compiles them into tab
 
 This project is dedicated to Hans Rosling (1948-2017), who championed the use of data to understand and prioritize global development challenges.
 
-#Techniques
+# Techniques
 
 - Basic data exploration
 - Table manipulation
