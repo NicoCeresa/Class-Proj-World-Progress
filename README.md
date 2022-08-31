@@ -4,7 +4,6 @@ This project is dedicated to Hans Rosling (1948-2017), who championed the use of
 
 ## Techniques
 
-- Basic data exploration
+- Exploratory Data Analysis
 - Table manipulation
-- Data Cleaning
 - Plotting data 
